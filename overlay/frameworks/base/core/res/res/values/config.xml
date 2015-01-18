@@ -60,6 +60,8 @@
     <integer-array name="config_autoBrightnessKeyboardBacklightValues">
     </integer-array>
 
+    <bool name="config_enableWifiDisplay">true</bool>
+    
     <integer name="config_buttonBrightnessSettingDefault">0</integer>
 
     <!-- Minimum screen brightness allowed by the power manager. -->
